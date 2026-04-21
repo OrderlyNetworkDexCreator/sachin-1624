@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "https://google.com",
   "VITE_DISCORD_URL": "https://google.com",
   "VITE_TWITTER_URL": "https://google.com",
-  "VITE_SEO_SITE_NAME": "https://google.com",
+  "VITE_SEO_SITE_NAME": "xss_test_123",
   "VITE_SEO_SITE_DESCRIPTION": "https://google.com",
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/sachin-1624/",
   "VITE_SEO_SITE_LANGUAGE": "en",
